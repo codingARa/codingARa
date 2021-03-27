@@ -6,7 +6,7 @@
     - getting back into the groove with my good old friends C++, Haskell and Clojure
     - delving deeper into my trusted language Python :snake:
 
-
+![My Codewarrior Profile Badge](https://www.codewars.com/users/codingARa/badges/small)
 <!---
 codingARa/codingARa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
