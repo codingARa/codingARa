@@ -3,8 +3,8 @@
 - I’m currently:
     - learning TypeScript and alike for WebDev
     - familiarising myself with "Clean Code"
-    - getting back into the groove with my good old friends C++, Haskell and Clojure
     - delving deeper into my trusted language Python :snake:
+    - learning C# and .Net for fun :tada:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/codingARa/badges/large)
 <!---
